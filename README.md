@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<a href="https://www.loom.com/share/YOUR_LOOM_VIDEO_ID" target="_blank">
+<a href="https://www.loom.com/share/4557af2c96b64a13966e7f56544ee19f" target="_blank">
   <img src="https://brandlogos.net/wp-content/uploads/2023/09/loom-logo_brandlogos.net_vwxqc.png"
        alt="Watch the project walkthrough on Loom"
        width="300">
