@@ -8,7 +8,7 @@ import streamlit as st
 # Configuration
 # ==========================================
 
-API_URL = "http://127.0.0.1:8000/predict"
+API_URL = "https://freight-rate-predictor-1z8w.onrender.com/predict"
 
 st.set_page_config(
     page_title="Freight Rate Prediction",
